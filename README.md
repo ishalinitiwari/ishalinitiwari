@@ -2,7 +2,7 @@
 
 Hi, I'm a final-year CS student at United College of Engineering and Research, Prayagraj. I mostly work on frontend — React, plain JS, CSS — and I enjoy building things that actually look and feel good to use.
 
-I did an internship at ZikRme where I built UI components in React as part of a small team, and recently completed an RPA training where I automated a bunch of tedious workflows. Currently looking for full-time opportunities.
+I did an internship at ZikRme where I built UI components in React as part of a small team, and recently completed an RPA training where I automated a bunch of tedious workflows and Ai video creator. Currently looking for full-time opportunities.
 
 ---
 
