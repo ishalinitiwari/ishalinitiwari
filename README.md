@@ -1,4 +1,4 @@
-![Shalini Tiwari](./banner(1).svg)
+![Shalini Tiwari](./banner.svg)
 
 Hi, I'm a final-year CS student at United College of Engineering and Research, Prayagraj. I mostly work on frontend — React, plain JS, CSS — and I enjoy building things that actually look and feel good to use.
 
